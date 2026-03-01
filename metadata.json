@@ -1,0 +1,5 @@
+{
+  "name": "Marzia",
+  "description": "A professional-grade optical simulator for thin and thick multilayer films using the Transfer Matrix Method (TMM). Calculate reflection, transmission, and internal absorption profiles.",
+  "requestFramePermissions": []
+}
